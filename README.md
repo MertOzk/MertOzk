@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MertOzk
 - 👀 I’m interested in ML and Big Data
-- 🌱 I’m currently re-learning Machine Learning methods on Python
+- 🌱 I’m currently exploring Machine Learning methods on Python
 - 💞️ I’m looking to collaborate on any machine learning projects using R and/or Pyhon 
 - 📫 You can use my linkedin to reach me : linkedin.com/in/mert-ozkarakas
